@@ -18,3 +18,7 @@ The goal of this analysis is to generate actionable business insights that suppo
 ## 📂 Project Files
 - `analysis.sql` → SQL queries used in this analysis
 - `Analisis Penjualan Coffee Shop Berdasarkan Data Transaksi Menggunakan SQL.pdf` → Analysis report
+## 📈 Key Insights
+- A small number of products contribute a significant portion of total revenue.
+- Peak transaction times occur during morning hours, indicating strong demand before work hours.
+- Sales performance shows variation across different days and months, highlighting seasonal patterns.
